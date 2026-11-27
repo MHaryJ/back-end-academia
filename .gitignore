@@ -1,0 +1,19 @@
+# Binaries / Exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Folder temporary / live-reload (Air / Gin)
+tmp/
+*/tmp/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
